@@ -1,6 +1,6 @@
-import { Footer } from "./components/Layout/Footer"
-import { Header } from "./components/Layout/Header"
-import { Main } from "./components/Layout/Main"
+import { Footer } from "./Layout/Footer"
+import { Header } from "./Layout/Header"
+import { Main } from "./Layout/Main"
 
 function App() {
 
