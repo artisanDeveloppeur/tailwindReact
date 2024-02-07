@@ -50,7 +50,7 @@ function Root() {
   return (
     <>
       <Header />
-      <main className="">
+      <main className="container my-24 mx-auto md:px-6 xl:px-24">
         <Outlet />
       </main>
       <Footer />
